@@ -2,9 +2,7 @@
 
 這個資料夾目前主要提供一支可放進 Tampermonkey 的拓元輔助腳本：
 
-- [`itzy_ticket_bot.user.js`](D:\GitHub\ive_ticket_bot\itzy_ticket_bot.user.js)
-
-雖然檔名還叫 `itzy_ticket_bot.user.js`，但內容已經改成 IVE 正式版預設。
+- [`ive_ticket_bot.user.js`](./ive_ticket_bot.user.js)
 
 ## 目前正式版預設
 
@@ -37,7 +35,7 @@
 
 1. 安裝 Tampermonkey。
 2. 建立新腳本。
-3. 把 [`itzy_ticket_bot.user.js`](D:\GitHub\ive_ticket_bot\itzy_ticket_bot.user.js) 的內容整份貼進去並儲存。
+3. 把 [`ive_ticket_bot.user.js`](./ive_ticket_bot.user.js) 的內容整份貼進去並儲存。
 4. 開啟拓元頁面並確認已登入。
 5. 右上角面板可以看到目前狀態、倒數、設定與上次動作。
 
